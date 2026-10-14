@@ -1,0 +1,7 @@
+# first day at langgraph practice
+langchain
+langgraph
+langchain-core
+langchain-groq
+python-dotenv
+
